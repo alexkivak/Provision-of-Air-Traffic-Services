@@ -1,0 +1,593 @@
+Provision of Air Navigation Services
+
+Air Traffic Management
+ Operational functions
+Source: SkyBrary
+ https://www.youtube.com/watch?v=C1f2GwWLB3k
+What is ATS? 
+Air Traffic Services(ATS) main purpose is to ensure safe and orderly traffic flow (ATC), 
+provide necessary information to flight crews (FIS) and, in case of an emergency, to the 
+appropriate (e.g SAR) bodies (alerting services). 
+ATC - Air Traffic Control 
+● Service provided to prevent collisions between aircraft and to expedite and 
+maintain an orderly flow of air traffic
+ ACC
+ APP
+ TWR
+(A)FIS - (Aerodrome) Flight Information Service
+ ● Flight Information service is a service provided for the purpose of giving advice 
+and information useful for the safe and efficient conduct of flights. (ICAO Annex 
+11: Air Traffic Services)
+ ● Service is given in uncontrolled airspace
+Alerting Services
+ ● Service provided in order to inform the appropriate organisations regarding 
+aircraft in need of search and rescue aid and assist such organisations as required
+ ● The Police and Border Guard Board and Rescue Board are responsible for the 
+implementation of SAR services for civil aviation throughout the Estonian SRR. 
+What is ATF(C)M? 
+The primary objective of air traffic flow (and capacity) management is to regulate the 
+flow of aircraft as efficiently as possible in order to avoid congestion of certain control 
+sectors. 
+NMOC (Network Manager Operation Centre) optimises traffic flows by constantly 
+balancing capacity supply and demand while ensuring safe and efficient operation of 
+flights going to and over Europe.
+ https://www.eurocontrol.int/our-data
+NMOC process
+ ● Collect aeronautical data
+ ● Up-to-date Central Airspace and Capacity Database
+ ● Flight planning
+ ● Strategic flow management (seven days or more) 
+● Pre-tactical flow management (one to six days before)
+ ● Tactical flow management (on the day of the operations) 
+● Post-operational analysis
+ ● Flight data
+What is ASM? 
+Airspace management purpose is to manage airspace as efficiently as possible in order to 
+satisfy its many users- both civil and military. 
+ASM applies and enhances the Flexible Use of Airspace (FUA) concept by developing the 
+European airspace into one continuum that is flexible and reactive to changes in airspace 
+users needs. 
+ATM concepts
+Flexible Use of Airspace
+ ● Airspace is no longer “civil” or “military”
+ ● Any necessary airspace segregation is temporary, based on real-time usage within 
+a specific time period. 
+● Contiguous volumes of airspace are not constrained by national boundaries.
+Benefits
+ ● Increased flight efficiency 
+● Availability of military training areas
+ ● Improved real-time civil/military cooperation
+ ● A reduction in airspace segregation needs
+ ● An increase in ATC capacity 
+● A reduction in delays to general air traffic 
+● More efficient ways to separate operational and general air traffic
+FRA - Free Route Airspace
+ • Giving users the freedom to plan a route in Europe’s airspace
+ • Free route airspace (FRA) is a specified airspace within which users may freely plan a 
+route between a defined entry point and a defined exit point, with the possibility to 
+route via intermediate (published or unpublished) significant points, without 
+reference to the ATS route network, subject to airspace availability.
+FRA
+ Source: Skybrary
+● PBN - Performance based navigation concept specifies that aircraft RNAV or RNP 
+system performance requirements be defined in terms of accuracy, integrity, 
+continuity and functionality required for the proposed operations in the context of 
+a particular airspace concept, when supported by the appropriate navigation aid 
+infrastructure. 
+https://www.youtube.com/watch?v=CIcvWUuoahs
+ ● RCP - Required Communication Performance - The RCP concept characterizes the 
+performance required for communication capabilities that support ATM functions 
+without reference to any specific technology and is open to new technology.
+ Performance—based ATM operations
+Operational concepts
+ ›
+ ICAO - To achieve an interoperable global air traffic management system, for all 
+users during all phases of flight, that meets agreed levels of safety, provides for 
+optimum economic operations, is environmentally sustainable and meets national 
+security requirements. 
+›
+ SESAR - Single European Sky ATM Research - is a collaborative project to 
+completely overhaul European airspace and its air traffic management (ATM)
+Operational concepts
+ ● U-Space U-space is a set of new services relying on a high level of digitalisation 
+and automation of functions and specific procedures designed to support safe, 
+efficient and secure access to airspace for large numbers of drones.
+ ● FINEST - Dynamic cross-border collaboration between EANS and with ANS Finland
+Future developments
+● CPDLC - Controller Pilot data link communications
+ ● Remote Tower
+ ● UTM 
+● AI - safe route through hazardous skies (precise information on natural events), 
+speech recognition, automated situational awareness etc. 
+● TRUSTY - trustworthy intelligent system for remote digital tower
+ ● Green-GEAR - Green operations with geometric altitude, advanced separation and 
+route charging solutions
+Units of measurments
+Standard units of measurement used in aviation
+ ● Speed - knots (kt) - 1(kt) nautical mile/hour = 1.852 km/h–  Mach number. Percentage of velocity at local speed of sound. M 0.82= 82% of 
+speed of sound in that atmospheric conditions. Affected by air temperature. Sea 
+level +15°C M1.0=1226km/h; FL360 -55°C M1.0=1061km/h
+ ● Distance - nautical mile (nm)/kilometer (km) - 1NM = 1.852km 
+● Horizontal distance: RVR, Rwy length and visibility <5km - 
+meters(m)/feet(ft)/statute miles (sm) - 1m = 3.28ft / 1sm = 1609.344m 
+● Vertical distance - feet(ft)/meters (m) 1ft = 0.3048m, FL
+ ● Time - UTC(Z) - in Estonia +2h during summer/ +3h during winter time
+Standard units of measurements
+ ● Direction - degree (xxx°) 
+● Pressure - hectopascal (hPa)/Millibar (mb)/ Inches of Mercury (In Hg)/ 
+millimeters of Mercury (mmHg) - 1hPa=1mb= 0.0295 In.Hg=0.75mmHg
+ Normal pressure values 920-1068hPa, standard atmospheric pressure 
+1012hPa
+ ● Temperature - degree Celcius/Fahrenheit 
+Airspace organisation
+Divisions of the air traffic services
+ ● ACC - Area control service
+ ● APP - Approach control service
+ ● TWR - Aerodrome control service
+ ● FIR - Flight information service
+ ● Alerting service
+Airspace organisation
+ ● 2 types of airspace - controlled and uncontrolled
+ ● Controlled airspace contains several types: 
+CTR - control zone
+ TMA - terminal manoeuvring area
+ ACC - area control centre
+ ATS routes 
+
+Airspace terminology
+ ● Danger area - An airspace of defined dimensions within which activities dangerous 
+to the flight of aircraft may exist at specified times. 
+● Restricted area - An airspace of defined dimensions, above the land areas or 
+territorial waters of a State, within which the flight of aircraft is restricted in 
+accordance with certain specified conditions.
+ ● Prohibited area - An airspace of defined dimensions, above the land areas or 
+territorial waters of a State, within which the flight of aircraft is prohibited. 
+
+Terminologies and concepts
+ ● Sectorization - to maximize the traffic flow and to create manageable workload 
+for controllers. 
+● Significant points 
+● ATS routes - An ATS route is a specified route designed for channelling the flow of 
+traffic as necessary for the provision of air traffic services. 
+Departure and arrival trajectories
+ ● SID/STAR charts
+ ● A Standard Instrument Departure Route (SID) is a standard ATS route identified in 
+an instrument departure procedure by which aircraft should proceed from take
+off phase to the en-route phase
+ ● A Standard Arrival Route (STAR) is a standard ATS route identified in an approach 
+procedure by which aircraft should proceed from the en-route phase to an initial 
+approach fix. 
+Airport design and location
+ ● https://www.youtube.com/watch?v=5QZ3eozyQfU
+Airport layout
+ ● Runways
+ ● Taxiways
+ ● Manoeuvring area - That part of an aerodrome to be used for the take-off, landing and 
+taxiing of aircraft, excluding aprons
+ ● Movement area - That part of an aerodrome to be used for the take-off, landing and 
+taxiing of aircraft, consisting of the manoeuvring area and the apron(s)
+ ● Apron - A defined area, on a land aerodrome, intended to accommodate aircraft for 
+purpose of loading or unloading passengers, mail or cargo, fuelling, parking or 
+maintenance
+ ● Ramp
+ ● Stands/Gates
+
+
+Obstacle limitation surfaces
+ ● An obstacle is defined as: 
+a) any object that stands on, or stands above, the specified surface of an obstacle 
+restriction area which comprises the runway strips, runway end safety areas, 
+clearways and taxiway strips; and 
+b) any object that penetrates the obstacle limitation surfaces, a series of surfaces 
+that set the height limits of objects, around an aerodrome
+Approach and landing categories
+ ● Visual approach 
+● Instrument approach- precision approach (PA) - course and glidepath guidance- approach with vertical guidance (APV) - course and glidepath deviation- non-precision approach (NPA) - course deviation but does not provide glidepath 
+information
+Precision approach - ILS
+ Category of 
+Operation
+ Decision Height (DH) 
+(2) RVR Visibility not less 
+than
+ CAT I not lower than 60 m 
+(200 ft) not less than 550 m 800m
+ CAT II
+ lower than 60 m (200 
+ft), but not lower than 
+30 m (100 ft)
+ not less than 350 m 
+(1)
+ CAT IIIA lower than 30 m (100 
+ft) or no DH not less than 200 m
+ CAT IIIB lower than 15 m (50 
+ft) or no DH
+ less than 200 m but 
+not less than 50 m
+ CAT IIIC no DH no RVR limitation
+Approach and landing categories
+Airspace classes
+Air Traffic Control
+Purpose of ATC
+ ● Prevent collisions between aircraft, and
+ on the manoeuvring area between aircraft and obstructions; and
+ ● Expediting and maintaining an orderly flow of air traffic
+Organization of ATC services
+ ● ACC - Area Control Centre - callsign “Control”, mainly overflying traffic, final climb 
+segment of departing traffic and initial descent of arriving traffic. Flight information 
+and alerting services in uncontrolled airspace. In Tallinn using radar services only. 
+FL095-660
+ ● APP - TMA - Terminal area, callsign “Approach”, separation between arriving and 
+departing traffic, sequencing of arriving traffic. In Tallinn radar service only. 
+● TWR - CTR - Controlled Traffic Region - callsign “Tower” - around an airport, 
+responsible for separation in the manoeuvring area + airspace that is visible from the 
+Tower. May use procedural separation, radar based separation, visual separation. 
+Ground radar also used. 
+Working position - TWR
+Working position - TWR
+ Photo: Vladislav Musakko
+TWR controller tools
+TWR Controller tools
+ ● Windows
+ ● Surveillance system based on radars - informational purpose, some ratings can use 
+operationally
+ ● Surface movement radar
+ ● Flight strip board
+ ● Light system
+ ● Meteorological information window
+ ● VCS (Voice Communication System) 
+● Light signals
+ ● Camera system
+ ● Flight plan data 
+Ground movement radar
+Flight strip board
+Surveillance radar
+Meteorological screen
+VCS
+Lights
+Light panel
+Light signals
+APP Controller tools
+ ● Radar screen 
+● Meteorological information screen
+ ● VCS
+ ● Flight plan data
+ ● Monitoring ground movement radar screen and electronic flight strip board
+Radar screen
+Radio communication
+Radiotelephony (RTF)
+ ● Provides the means by which pilots and ground personnel communicate with each 
+other. 
+● Information and instructions transmitted are of vital importance in the safe and 
+expeditious operation of aircraft. 
+Standard phraseology
+ ● Reduces the risk that message will be misunderstood and aids the read-back/hear
+back process so that any error is quickly detected. 
+● Non-standard phraseology is frequent causal or contributory factor in aircraft 
+accidents and incidents
+Transmitting technique
+ ● Before transmitting, listen out on the frequency to be used to ensure that there 
+will be no interference with a transmission from another station
+ ● Use a normal conversational tone, and speak clearly and distinctly
+ ● Maintain an even rate of speech not exceeding 100 words per minute
+ ● Maintain the speaking volume at a constant level
+ ● Avoid using hesitation sounds such as “er”, “um”
+ ● Be sure that microphone button is released after a transmission
+Transmission of letters and numbers
+ ● Phonetic spelling for letters 
+● All numbers shall be transmitted by pronouncing each digit separately, except: 
+hundreds; 
+● Thousands
+Standard words and phrases
+ ● Acknowledge 
+● Affirm
+ ● Approved
+ ● Check
+ ● Cleared
+ ● Confirm
+ ● Correction
+ ● Disregard
+ ● How do you read?
+ ● Negative
+ ● Report
+ ● Standby
+Establishment of communications
+ ● When establishing communications, an aircraft should use the full callsign of both 
+the aircraft and the aeronautical station. 
+“Tallinn Tower, ESEPA” 
+“ESEPA, Tallinn Tower”
+Clearance
+ ● Controllers should pass a clearance slowly and clearly
+ ● Controllers should avoid passing a clearance to a pilot engaged in complicated 
+taxiing manoeuvres and on no occasion should a clearance be passed when the 
+pilot is engaged in line up or take-off manoeuvres
+ ● Read-back requirements have been introduced in the interests of flight safety
+Clearance
+ ● The following shall always be read back: 
+1) ATC route clearances
+ 2) clearances and instructions to enter, land on, take off from, hold short of, cross 
+and backtrack on any runway; and 
+3) runway-in-use, altimeter settings, SSR codes, level instructions, heading and 
+speed instructions and, whether issued by the controller or contained in ATIS 
+broadcasts, transition levels
+Essential aerodrome information
+ ● Essential aerodrome information is information regarding the movement area and 
+its associated facilities which is necessary to ensure the safe operation of aircraft
+Essential aerodrome information
+ ● Construction or maintenance work on, or immediately adjacent to the movement 
+area
+ ● Rough or broken surfaces on runway, a taxiway or an apron
+ ● Snow, slush or ice on runway, a taxiway or an apron
+ ● Water on a runway, a taxiway or an apron
+ ● Snow banks or drifts adjacent to a runway, a taxiway or an apron
+ ● Other temporary hazards, including parked aircraft and birds on the ground or in 
+the air
+ ● Failure or irregular operation of part or all of the aerodrome lighting systems
+ ● Any other pertinent information
+Vehicles
+ ● The expeditious movement of vehicles plays an essential supporting role in the 
+operation of an aerodrome.
+ ● Factors to take into account when driving on an aerodrome:
+ a) aircraft are not as manoeuvrable as ground vehicles;
+ b) the visibility from an aircraft cockpit for ground movement purposes is often 
+restricted compared to that from a ground vehicle
+Traffic information
+ ● Information regarding traffic on a conflicting path should be given in the following 
+form:
+ a) relative bearing of the conflicting traffic in terms of the 12 hour clock;
+ b) distance from the conflicting traffic
+ c) direction of the flight of the conflicting traffic; and
+ d) an other pertinent information such as: unknown, slow moving, fast moving, 
+closing, opposite
+Air traffic controller’s tools
+Control Tools and Monitoring Aids
+ ● MTCD - Medium-Term Conflict detection; up to 20 min before
+ ● STCA - Short term conflict alert
+ ● RAM - Route Adherence Monitoring
+ ● CLAM - Cleared Level Adherence Monitoring
+ ● MSAW - Minimum Safe Altitude Warning
+ ● APW - Area Proximity Warning
+ ● (FPL) Separation tool - system computed visual presentation of minimum distance 
+between two aircraft
+ ● QDM - to measure distance between points and/or aircraft
+ ● Prediction lines - 1-10 minute vector ahead of aircraft
+MTCD
+ ● The detection and notification to the controller of probable loss of the required 
+separation between two aircraft;
+ ● The detection and notification to the controller of aircraft penetrating segregated 
+or otherwise restricted airspace
+ ● The detection and display to the controller of aircraft-to-aircraft encounters 
+where, although the required separation will be achieved, each aircraft is blocking 
+airspace that might have been used by the other
+Short-term conflict alert
+ ● Short Term Conflict Alert is a system to warn the ATCO of any situation where user 
+defined minimum separation distances between any pair of surveillance tracks is, 
+or is predicted to be violated within a short look ahead time (usually 2min). 
+● Visual alert on the radar display, some systems also provide an audible alert
+RAM 
+● To assist ATC in the early identification of a variation between the actual and the 
+expected trajectory. 
+● Provides advance warning in case of lateral deviation which could lead to loss of 
+separation or airspace infringement. 
+● Does not depend on the onboard equipment - its effectiveness depends on the 
+planned trajectory and its prompt update with any clearance issued
+CLAM
+ ● Provides indication to the controller when the transponder-derived level 
+information differs from the controller-input cleared level. 
+● Informs controller about a level bust
+MSAW
+ ● A ground-based safety net intended to warn the controller about increased risk of 
+controlled flight into terrain accidents by generating, in a timely manner, an alert 
+of aircraft proximity to terrain or obstacles. 
+● Compares the levels reported by aircraft transponders that have pressure-altitude 
+reporting capability against defined minimum safe altitudes. 
+APW
+ ● Uses surveillance data and flight path prediction to warn the controller when an 
+aircraft is, or is predicted to be, flying into a volume of notified airspace, such as 
+controlled airspace, danger areas, prohibited areas and restricted areas. 
+● Intended to function in the short term, up to 2 minutes
+Separations
+Separation minima
+ ● The selection of separation minima for application within a given portion of airspace 
+shall be made by the ANSP responsible for the provision of air traffic services and 
+approved by the competent authority concerned
+ ● Vertical separation minimum shall be a nominal 300 m (1000ft) up to and including 
+FL 410 and a nominal 600 m (2000 ft) above this level
+ ● Horizontal separation, obtained by providing: 
+a) longitudinal separation by maintaining an interval between aircraft operating 
+along the same, converging or reciprocal tracks, expressed in time or distance; or 
+b) lateral separation, by maintaining aircraft on different routes or in different 
+geographical areas
+Separations provided
+ ● Procedural separation
+ ● Surveillance based separation
+ ● Separation in the provision of aerodrome control service
+Separation minima based on ATS surveillance systems
+ ● When surveillance systems are used the minimum separation prescribed by ICAO 
+doc 4444 is 5NM. This minimum may be reduced by the appropriate ATS authority 
+but not below: - 3NM when the surveillance systems capabilities at a given location permit this; - 2.5NM between succeeding aircraft which are established on the same final 
+approach track within 10NM of the runway threshold. 
+Radar separation minima
+Procedural separation
+ ● Term used to indicate that information derived from an ATS surveillance system is 
+not required for the provision of air traffic control service. 
+● Typical applications for procedural control include: - in airspace where surveillance cover is not available ( e.g oceanic airspace) - in terminal movement areas if the traffic levels are such that they do not warrant 
+the installation and maintenance of a surveillance system- in aerodrome control zones, especially if the traffic density is relatively low and 
+the aerodrome layout is not complex ( e.g only one runway)- backup solution in case of complete failure of all surveillance-based systems
+Time-based wake turbulence 
+● Wake turbulence separation shall not be required to apply: 
+a) for arriving VFR flights landing on the same runway as preceding landing Heavy 
+or Medium aircraft; and 
+b) between arriving VFR flights executing visual approach when the aircraft has 
+reported the preceding aircraft in sight and has been instructed to follow and 
+maintain own separation from that aircraft
+Arriving aircraft
+ ● Medium aircraft behind heavy aircraft - 2 minutes
+ ● Light aircraft behind heavy or medium aircraft - 3 minutes
+Departing aircraft 
+● L or M behind H or L behind M 2 minutes when the aircraft are using: 
+a) the same runway
+ b) parallel runways separated by less than 760m
+ c) crossing runways if the projected flight path of the second aircraft will cross the 
+projected flight path of the first aircraft at the same altitude or less than 
+300m(1000ft) below; 
+d) parallel runways separated by 760m or more, if the projected flight path of the 
+second aircraft will cross the projected flight path of the first aircraft at the same 
+altitude or less than 300m (1000ft) below
+Departing aircraft
+ ● 3 minutes shall be applied between L or M when taking off behind a H or L when 
+taking off behind M from: 
+a) an intermediate part of the same runway; or 
+b) an intermediate part of a parallel runway separated by less than 760, 
+2 minutes separations
+ ● Displaced landing threshold
+ ● Opposite direction - low or missed approach by heavier aircraft and lighter aircraft 
+is using the runway opposite direction
+Separation in the vicinity of aerodromes
+ ● Separation minima in the vicinity of aerodromes can be reduced if: 
+a) adequate separation can be provided by the aerodrome controller when each 
+aircraft is continuously visible to this controller; or
+ b) each aircraft is continuously visible to flight crews of the other aircraft 
+concerned and the pilots thereof report that they can maintain their own 
+separation; or
+ c) in the case of one aircraft following another, the flight crew of the succeeding 
+aircraft reports that the other aircraft is in sight and separation can be maintained
+Visual approach
+ ● An IFR flight may be cleared to execute a visual approach provided the pilot can 
+maintain visual reference to the terrain and: 
+a) the reported ceiling is at or above the level of the beginning of the initial 
+approach segment for the aircraft so cleared; or
+ b) the pilot reports at the level of the beginning of the initial approach segment or 
+at any time during the instrument approach procedure that the meteorological 
+conditions are such that with reasonable assurance a visual approach and landing 
+can be completed
+Separation for visual approach
+ ● Separation shall be provided between an aircraft cleared to execute a visual 
+approach and other arriving and departing aircraft 
+● For successive visual approaches, separation shall be maintained by the controller 
+until the pilot of a succeeding aircraft reports having the preceding aircraft in 
+sight. 
+Separation for departing aircraft
+ ● A departing aircraft will not normally be permitted to commence take-off until the 
+preceding departing aircraft has crossed the end of the runway-in-use or has 
+started a turn or until all preceding landing aircraft are clear of the runway-in-use
+Reduced runway separation 
+● Reduced runway separation minima shall only be applied during the hours of daylight from 
+30 minutes after local sunrise to 30 minutes before local sunset. 
+● For the purpose of reduced runway separation, aircraft shall be classified as follows: 
+a) Category 1 aircraft: single-engine propeller aircraft with a maximum certificated take-off 
+mass of 2000kg or less; 
+b) Category 2 aircraft: single-engine propeller aircraft with maximum certificated take-off 
+mass of more than 2000kg but less than 7000kg; and twin-engine propeller aircraft with a 
+maximum certificated take-off mass of less than 7000kg
+ c) Category 3 aircraft: all other aircraft
+ ● Reduced runway separation minima shall not apply between a departing aircraft and 
+preceding landing aircraft
+Reduced runway separation
+ ● Reduced runway separation minima shall be subject to the following conditions: 
+a) wake turbulence separation minima shall be applied; 
+b) visibility shall be at least 5km and ceiling shall not be lower than 1000ft
+ c) tailwind component shall not exceed 5kt; 
+d) there shall be available means, such as suitable landmarks, to assist the controller in 
+assessing the distances between aircraft
+ e) minimum separation continues to exist between two departing aircraft immediately after 
+take-off of the second aircraft; 
+f) traffic information shall be provided to the flight crew of the succeeding aircraft 
+concerned; and
+ g) the braking action shall not be adversely affected by runway contaminants such as ice, 
+slush, snow and water
+Separation by surveillance systems
+ ● The horizontal separation minimum based on radar shall be 5.0NM
+ ● The radar separation minimum may be reduced but not below: 
+a) 3.0NM when radar capabilities at a given location so permit; and
+ b) 2.5 NM between succeeding aircraft which are established on the same final 
+approach track within 10 NM of the runway end. 
+● Approach and departure phases of flight distance-based wake turbulence 
+separation: 
+Heavy - Heavy 4.0NM
+ Heavy - Medium 5.0NM
+ Heavy - Light 6.0NM
+ Medium - Light 5.0NM
+ https://www.youtube.com/watch?v=vfjIFvH1e9g
+ Distance-based wake turbulence separation minima
+Distance-based wake turbulence separation minima
+ ● The minima shall be applied when: 
+a) an aircraft is operating directly behind another aircraft at the same altitude or 
+less than 1000ft below; or
+ b) both aircraft are using the same runway, or parallel runways separated by less 
+than 2500ft; or
+ c) an aircraft is crossing behind another aircraft at the same altitude or less than 
+1000ft
+Ground based safety nets
+What are safety nets? 
+● Safety nets help prevent imminent or actual hazardous situations from developing 
+into major incidents or even accidents. In doing so, they provide additional safety 
+barriers in the overall system. 
+● They are intended to provide timely alerts to air traffic controllers or pilots of an 
+increased risk to flight safety. 
+Ground-based and airborne safety nets
+ ● Ground-based safety nets are an integral part of the ATM system. Primarily using 
+ATS surveillance data, they provide warning times of up to two minutes. Upon 
+receiving an alert, air traffic controllers are expected to immediately assess the 
+situation and take appropriate action. 
+● Airborne safety nets provide alerts and resolution advisories directly to the pilots. 
+Warning times are generally shorter, up to about 40 seconds. Pilots are expected 
+to immediately take appropriate avoiding action. 
+Ground based and airborne safety nets
+ ● Ground-based and airborne safety nets operate independently, often within the 
+same airspace. The ground-based safety nets STCA and APW work alongside their 
+airborne equivalent Airborne Collision Avoidance System (ACAS), also known as 
+Traffic alert and Collision Avoidance System (TCAS). STCA directly assists in 
+preventing collision between aircraft whilst APW does so indirectly by predicting 
+or detecting violations of traffic segregation rules. 
+● Both MSAW and APM assist in preventing controlled flight into terrain accidents, 
+and should work in concert with their airborne equivalent Ground Proximity 
+Warning System. 
+Ground-based safety nets
+ ● STCA - Short Term Conflict Alert
+ ● APW - Area Proximity Warning
+ ● APM - Approach Path Monitor
+ ● MSAW - Minimum Safe Altitude Warning
+STCA
+ ● Collision avoidance
+ ● Ground: STCA Alert Received -> Resolving Action Determined -> Instruction Issued -> Read-back Received -> Progress Observed -> Implementation Verified -> 
+Situation Observed
+Minimum safe altitude warning
+ ● MSAW can only generate alerts for aircraft that are equipped with pressure 
+altitude-reporting transponders. 
+APW
+ ● Uses surveillance data and flight path prediction to warn the controller when an 
+aircraft is, or is predicted to be, flying into a volume of notified airspace, such as 
+controlled airspace, danger areas, prohibited areas and restricted areas. 
+● Intended to function in the short term, up to 2 minutes
+Approach Path Monitoring
+ ● Approach Path Monitor warns the controller about increased risk of controlled 
+flight into terrain accidents by generating, in a timely manner, an alert of an 
+unsafe aircraft flight path during final approach
+Airborne collision avoidance systems
+ ● ACAS/TCAS 
+● Tracks aircraft in the surrounding airspace through replies from their air traffic 
+control transponders. If the system diagnoses a risk of impending collision, it 
+issues a resolution advisory to the flight crew, which directs the pilots how best to 
+regulate or adjust their vertical rate so as to avoid a collision. 
+● Traffic advisories (TA) aims to help the pilots in the visual acquisition of the 
+intruder aircraft and to alert them to be ready for a potential resolution advisory
+Enhanced Ground Proximity Warning System
+ ● Reduces the risk of controlled flight into terrain by providing flight crews with 
+timely, accurate information about terrain and obstacles in the area. 
+On-board equipment
+Cockpit environment in relation to ATC
+ ● Radio
+ ● Transponder - Mode A - transmits an identifying code only
+ Mode C - enables the ATCO to see the aircraft altitude or flight level automatically
+ Mode S - has altitude capability and also permits data exchange
+ ● Navigation equipment
+ ● FMS - CPDLC, arrival/departure charts, FIR boundaries
+ ● Paper charts
+ ● ACAS/TCAS
+ ● Weather radar
+Radio
+ https://upload.wikimedia.org/wikipedia/commons/d/d8/737_Max_Cockpit.jpg
+Transponder
+FMS
+Weather radar
